@@ -1,3 +1,16 @@
 body {
-  background-color: #fafafa
+  background-color: #fafafa;
+}
+
+div {
+	background-color: #ffffff;
+	border: 1px solid #e6e6e6;
+	width: 350px;
+	height: 380px;
+	margin: 120px auto;
+}
+
+img {
+	margin-top: 28px;
+	margin-left: 87px;
 }
