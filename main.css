@@ -39,3 +39,22 @@ a {
 	text-decoration: none;
 	font-weight: bold;
 }
+
+input {
+	width: 268px;
+	height: 35px;
+	background-color: #fafafa;
+}
+
+#userBox {
+	margin-top: 25px;
+}
+
+#pwdBox {
+	margin-top: 8px;
+}
+
+form {
+	width: 270px;
+	margin: 0 auto;
+}
