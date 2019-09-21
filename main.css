@@ -44,6 +44,11 @@ input {
 	width: 268px;
 	height: 35px;
 	background-color: #fafafa;
+	border: 2px solid #efefef;
+	border-radius: 3px;
+	outline: none;
+	text-indent: 8px;
+	color: #525252;
 }
 
 #userBox {
@@ -55,6 +60,18 @@ input {
 }
 
 form {
-	width: 270px;
+	width: 268px;
 	margin: 0 auto;
+}
+
+button {
+	width: 275px;
+	height: 30px;
+	margin-top: 15px;
+	border: none;
+	background-color: #3897f0;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	font-family: helvetica;
 }
