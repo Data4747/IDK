@@ -20,12 +20,41 @@ body {
 	margin-top: 10px;
 }
 
-img {
+#instaLogo {
 	margin-top: 28px;
 	margin-left: 87px;
 }
 
-p {
+#facebookLogIn {
+	margin: 0 auto;
+	width: 268px;
+	color: #3a559f;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+#facebookLogInLink {
+	color: #3a559f;
+	text-decoration: none;
+}
+
+#forgotPwd {
+	font-family: helvetica;
+	font-size: 12px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 20px;
+	color: #003569;
+}
+
+#forgotPwdLink {
+	color: #003569;
+	text-decoration: none;
+}
+
+#accountSignUp {
 	font-family: helvetica;
 	font-weight: 100;
 	font-size: 12px;
@@ -34,7 +63,42 @@ p {
 	margin-top: 25px;
 }
 
-a {
+#getAppTxt {
+	width: 350px;
+	margin: 20px auto;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 13px;
+}
+
+#getAppPics {
+	width: 350px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#bottomPageStuff {
+	word-spacing: 15px;
+	font-size: 12px;
+	font-family: helvetica;
+	font-weight: 530;
+	color: #003569;
+	margin: 200px auto;
+	text-align: center;
+}
+
+#orThing {
+	font-family: helvetica;
+	margin: 20px auto;
+	width: 55px;
+	text-align: center;
+	font-size: 12px;
+	background-color: white;
+	color: #999999;
+	font-weight: bold;
+}
+
+#signUpLink {
 	color: #3897f2;
 	text-decoration: none;
 	font-weight: bold;
